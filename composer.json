@@ -1,5 +1,5 @@
 {
-    "name": "ltfi/wsap-sdk",
+    "name": "ltfi/ltfi-wsap",
     "description": "Official PHP SDK for LTFI-WSAP (Layered Transformer Framework Intelligence - Web System Alignment Protocol) API",
     "type": "library",
     "license": "MIT",
@@ -10,7 +10,7 @@
             "email": "developers@kief.studio"
         }
     ],
-    "homepage": "https://github.com/KiefStudioMA/ltfi-wsap-php",
+    "homepage": "https://github.com/KiefStudioMA/LTFI-WSAP-PHP",
     "keywords": [
         "ltfi",
         "wsap",
