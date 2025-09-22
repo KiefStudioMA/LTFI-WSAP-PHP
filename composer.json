@@ -1,0 +1,50 @@
+{
+    "name": "ltfi/wsap-sdk",
+    "description": "Official PHP SDK for LTFI-WSAP (Layered Transformer Framework Intelligence - Web System Alignment Protocol) API",
+    "type": "library",
+    "license": "MIT",
+    "version": "2.0.0",
+    "authors": [
+        {
+            "name": "Kief Studio",
+            "email": "developers@kief.studio"
+        }
+    ],
+    "homepage": "https://github.com/KiefStudioMA/ltfi-wsap-php",
+    "keywords": [
+        "ltfi",
+        "wsap",
+        "api",
+        "sdk",
+        "client"
+    ],
+    "require": {
+        "php": ">=7.4",
+        "guzzlehttp/guzzle": "^7.5",
+        "ext-json": "*"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.5",
+        "phpstan/phpstan": "^1.10",
+        "squizlabs/php_codesniffer": "^3.7"
+    },
+    "autoload": {
+        "psr-4": {
+            "LTFI\\WSAP\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "LTFI\\WSAP\\Tests\\": "tests/"
+        }
+    },
+    "scripts": {
+        "test": "vendor/bin/phpunit",
+        "phpstan": "vendor/bin/phpstan analyse",
+        "phpcs": "vendor/bin/phpcs"
+    },
+    "config": {
+        "sort-packages": true,
+        "optimize-autoloader": true
+    }
+}

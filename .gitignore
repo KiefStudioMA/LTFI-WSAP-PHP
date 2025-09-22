@@ -1,0 +1,116 @@
+# Composer dependencies
+/vendor/
+composer.phar
+composer.lock
+
+# Environment variables
+.env
+.env.local
+.env.backup
+.env.production
+
+# IDE and editor files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+.project
+.buildpath
+.settings/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# Log files
+*.log
+/logs/
+error_log
+
+# Cache files
+/cache/
+/tmp/
+/temp/
+
+# PHPUnit
+/phpunit.xml
+.phpunit.result.cache
+.phpunit.cache/
+
+# Coverage reports
+/coverage/
+clover.xml
+coverage.xml
+*.coverage
+
+# Symfony
+/var/
+/public/bundles/
+/public/uploads/
+
+# Laravel
+/bootstrap/compiled.php
+/storage/logs/
+/storage/framework/
+/storage/app/
+/public/storage
+
+# CodeIgniter
+/application/logs/
+/application/cache/
+
+# WordPress
+wp-config.php
+wp-content/uploads/
+wp-content/cache/
+
+# Drupal
+sites/*/files/
+sites/*/private/
+
+# Backup files
+*.bak
+*.backup
+*.tmp
+*.temp
+
+# Package files
+*.zip
+*.tar
+*.tar.gz
+*.rar
+
+# Runtime files
+*.pid
+*.lock
+
+# Node.js (if using with PHP)
+node_modules/
+npm-debug.log*
+
+# Memory dumps
+*.dmp
+
+# Xdebug
+/xdebug/
+
+# PHPStan
+.phpstan.cache
+
+# Psalm
+.psalm/cache/
+
+# Phan
+.phan/
+
+# PHPCS
+.phpcs-cache
+
+# Behat
+behat.yml
