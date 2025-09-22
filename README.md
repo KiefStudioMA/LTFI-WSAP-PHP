@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/KiefStudioMA/LTFI-WSAP-SDK/main/assets/KS-FullLogo-DarkGrey-300dpi.png#gh-light-mode-only" alt="Kief Studio" height="80">
-  <img src="https://raw.githubusercontent.com/KiefStudioMA/LTFI-WSAP-SDK/main/assets/KS-FullLogo-LightSilver-300dpi.png#gh-dark-mode-only" alt="Kief Studio" height="80">
+  <img src="https://raw.githubusercontent.com/KiefStudioMA/LTFI-WSAP/main/assets/KS-FullLogo-DarkGrey-300dpi.png#gh-light-mode-only" alt="Kief Studio" height="80">
+  <img src="https://raw.githubusercontent.com/KiefStudioMA/LTFI-WSAP/main/assets/KS-FullLogo-LightSilver-300dpi.png#gh-dark-mode-only" alt="Kief Studio" height="80">
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/KiefStudioMA/LTFI-WSAP-SDK/main/assets/LTFI-Logo.png#gh-light-mode-only" alt="LTFI" height="80">
-  <img src="https://raw.githubusercontent.com/KiefStudioMA/LTFI-WSAP-SDK/main/assets/LTFI-Logo-White.png#gh-dark-mode-only" alt="LTFI" height="80">
+  <img src="https://raw.githubusercontent.com/KiefStudioMA/LTFI-WSAP/main/assets/LTFI-Logo.png#gh-light-mode-only" alt="LTFI" height="80">
+  <img src="https://raw.githubusercontent.com/KiefStudioMA/LTFI-WSAP/main/assets/LTFI-Logo-White.png#gh-dark-mode-only" alt="LTFI" height="80">
 </div>
 
 # LTFI-WSAP PHP SDK
@@ -62,8 +62,8 @@ For pricing details: [wsap.ltfi.ai/pricing](https://wsap.ltfi.ai/pricing)
 
 <div align="center">
   <br>
-  <img src="https://raw.githubusercontent.com/KiefStudioMA/LTFI-WSAP-SDK/main/assets/KS-icon-black-1024.png#gh-light-mode-only" alt="Kief Studio" width="64">
-  <img src="https://raw.githubusercontent.com/KiefStudioMA/LTFI-WSAP-SDK/main/assets/KS-icon-white-1024.png#gh-dark-mode-only" alt="Kief Studio" width="64">
+  <img src="https://raw.githubusercontent.com/KiefStudioMA/LTFI-WSAP/main/assets/KS-icon-black-1024.png#gh-light-mode-only" alt="Kief Studio" width="64">
+  <img src="https://raw.githubusercontent.com/KiefStudioMA/LTFI-WSAP/main/assets/KS-icon-white-1024.png#gh-dark-mode-only" alt="Kief Studio" width="64">
   <br><br>
   
   **Built with ❤️ by [Kief Studio](https://kief.studio)**
